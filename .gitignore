@@ -1,0 +1,16 @@
+# VuePress files
+src/.vuepress/.cache/
+src/.vuepress/.temp/
+src/.vuepress/dist/
+
+# Node modules
+node_modules/
+
+# Test temp files
+**/__fixtures__/.temp/
+
+# MacOS Desktop Services Store
+.DS_Store
+
+# Log files
+*.log
